@@ -139,11 +139,6 @@
                                     <h2 class="Title"><i class="fa fa-clone"></i>ফেইসবুকও কি সাম্প্রদায়িক নাকি অসাম্প্রদায়িক?</h2>
                                 </a>
                             </div>
-                            <!-- <div class="Lead-NewsC-ListItem">
-                                <a href="#">
-                                    <h2 class="Title"><i class="fa fa-clone"></i>ফেইসবুকও কি সাম্প্রদায়িক নাকি অসাম্প্রদায়িক?</h2>
-                                </a>
-                            </div>  -->
                         </div>
                     </div>
                 </div>
